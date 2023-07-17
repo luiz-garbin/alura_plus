@@ -7,3 +7,8 @@
 >Secções subdivididas, indicando cada area.
 >Rodapé com indicações de politicas e funcionalidades do site.
 >```
+
+#Dominio do Site:
+```
+https://alura-plus-nine-wine.vercel.app/#principal
+```
